@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Plataforma Alura+**
-| :label: Tecnologias | html, css 
+| :label: Tecnologias | HTML, CSS 
 | :rocket: URL         | https://christianduhp.github.io/plataforma-aluraplus/
 | :fire: Desafio     | https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=OfiUzZyqN9tUo91o-0
 
