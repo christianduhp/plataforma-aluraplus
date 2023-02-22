@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=OfiUzZyqN9tUo91o-0
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](![]([https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev])
+![](https://raw.githubusercontent.com/christianduhp/alura-geek/master/public/images/og-image.png#vitrinedev)
 #vitrinedev)
 
 ## Detalhes do projeto
