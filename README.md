@@ -1,18 +1,22 @@
+<h1> Plataforma Alura+ </h1>
+
+Este projeto é uma plataforma de cursos desenvolvida em HTML e CSS, criada com base no curso da Alura <a href="https://cursos.alura.com.br/course/html-css-praticando-html-css">HTML e CSS: praticando HTML/CSS.</a> O objetivo deste projeto é aprender conceitos básicos de HTML e CSS, além de desenvolver habilidades práticas na criação de uma página da web.
+
+## Como utilizar
+Para executar o projeto, basta baixar os arquivos e abrir o arquivo index.html em seu navegador. O projeto foi desenvolvido apenas com HTML e CSS, portanto não há necessidade de instalar nenhum programa ou dependência adicional.
+
+## Funcionalidades
+A plataforma de cursos inclui uma página principal, onde é possível visualizar os preços dos planos, com botões que levam à página da Alura. Além disso, inclui um banner principal. Ao rolar na tela, é possível ver a compatibilidade da plataforma com outros dispositivos, o Alura Combo+ com aprendizado de línguas, e também a opção de baixar o conteúdo para assistir offline. No rodapé, há links genéricos intitulados de Idioma, Dispositivos compatíveis, Contrato de assinatura, Política de privacidade, Proteção de dados no Brasil, Anúncios personalizados e Ajuda. Por último, são apresentados os direitos e a localização da empresa.
+
 # Plataforma Alura+
 
-<!-- Rápida descrição do objetivo de fazer esse projeto -->
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |<a href="https://cursos.alura.com.br/vitrinedev/christianoliver">Christian Oliveira</a> |
 | -------------  | --- |
 | :sparkles: Nome        | **Plataforma Alura+**
 | :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://christianduhp.github.io/plataforma-aluraplus/
 | :fire: Desafio     | https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=OfiUzZyqN9tUo91o-0
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Plataforma](https://user-images.githubusercontent.com/85292359/220916260-74e8341b-ada9-488e-b90a-931484d91726.jpg#vitrinedev)
 
-<!--
-## Detalhes do projeto
-
- Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
