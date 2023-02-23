@@ -15,8 +15,8 @@ A plataforma de cursos inclui uma página principal, onde é possível visualiza
 | -------------  | --- |
 | :sparkles: Nome        | **Plataforma Alura+**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://christianduhp.github.io/plataforma-aluraplus/
-| :fire: Desafio     | https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?t=OfiUzZyqN9tUo91o-0
+| :rocket: URL         |<a href="https://christianduhp.github.io/plataforma-aluraplus/">Link Alura+</a>
+| :fire: Desafio     |<a href="https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout">Desafio Figma</a> 
 
 ![Plataforma](https://user-images.githubusercontent.com/85292359/220916260-74e8341b-ada9-488e-b90a-931484d91726.jpg#vitrinedev)
 
